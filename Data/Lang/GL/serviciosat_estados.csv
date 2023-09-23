@@ -1,0 +1,5 @@
+id;nombre;predeterminado;editable
+1;Pendente;true;true
+2;Procesando;false;true
+3;Completado;false;false
+4;Rexeitado;false;false
